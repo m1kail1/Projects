@@ -10,3 +10,8 @@ password does not meet these criteria, points will be
 deducted. By the end of the program if there are too
 many points deducted, our program will print out that
 the password is not safe.
+
+alphaSort.c sorts a given char array by either alphabetical order
+or reverse alphabetical order depending on whether the user
+inputs a(alphabetical) or d(reverse) when prompted. This
+program uses an array of pointers.
